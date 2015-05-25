@@ -1,0 +1,3 @@
+## Common configuration here
+management:
+  context_path: /admin
